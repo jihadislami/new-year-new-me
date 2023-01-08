@@ -76,7 +76,7 @@
 }
 /* second banner styles */
 .banner-2{
-    background-image: url('/images/watch.png');
+    background-image: url('../images/watch.png');
     display: inline-block;
     width: 1140px;
     height: 300px;

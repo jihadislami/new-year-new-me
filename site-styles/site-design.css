@@ -105,12 +105,15 @@
 /* last section styles */
 .last-section-container{
     background: #151414;
-    width: 1600px;
+    width: 1330px;
     height: 577px;
     display: flex;
+    justify-content: space-between;
 }
+/* text section styles */
 .text-section{
     text-align: left;
+    padding: 130px 650px 121px 50px;
 }
 .text-section-title{
     font-weight: 700;
@@ -121,4 +124,36 @@
     color: #FFFFFF;
     font-weight: 400;
     font-size: 16px;
+}
+/* input section styles */
+.input-section{
+    padding:130px 40px 130px ;
+    align-items: left;
+
+}
+.input-section-title{
+    font-weight: 600;
+    font-size: 25px;
+     color: #FFFFFF; 
+}
+.input-section-button-type{
+    width: 200px;
+height: 28px;
+border-color: #FFFFFF;
+border-radius: 3px;
+background-color: #151414;
+padding: 20px;
+color: #F3F3F3;
+font-size: 18px;
+}
+.input-section-button{
+    font-weight: 600;
+    font-size: 20px;
+   color: #F15B22;
+   background-color: white;
+   width: 160px;
+    height: 64px;
+    border: none;
+    border-radius: 3px;
+    margin-top: 20px;
 }

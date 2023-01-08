@@ -62,3 +62,63 @@
     display: flex;
     justify-content: space-evenly;
 }
+.skill-container-2{
+    text-align: center;
+}
+.skill-name{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+}
+.skill-descriptions{
+    color: #737272;
+}
+/* second banner styles */
+.banner-2{
+    background-image: url('/images/watch.png');
+    display: inline-block;
+    width: 1140px;
+    height: 300px;
+    margin: 50px;
+    margin-left: 150px;
+    margin-right: 180px;
+}
+.second-banner-container{
+    text-align: left;
+    padding: 59px 600px 59px 40px;
+}
+.second-banner-title{ font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+.second-banner-btn{
+    width: 160px;
+    height: 64px;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    border-radius: 3px;
+    border: none;
+}
+/* last section styles */
+.last-section-container{
+    background: #151414;
+    width: 1600px;
+    height: 577px;
+    display: flex;
+}
+.text-section{
+    text-align: left;
+}
+.text-section-title{
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+}
+.text-section-description{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+}

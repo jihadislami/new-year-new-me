@@ -47,5 +47,14 @@
     color: #444343;
     font-size: 16px;
 }
-.failure-lists{ list-style-image:url('');
+.failure-lists{ 
+    list-style-type: circle;
+    color: #444343;
+}
+/* my plans style */
+.my-plans-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+   color: #151414;
 }

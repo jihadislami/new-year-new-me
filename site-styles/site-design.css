@@ -1,3 +1,51 @@
-h1{
-    color: blue;
+/* first page banner styles */
+.banner{
+    background-image: url('../images/banner/banner2.png'); 
+    width: 1330px;
+    height: 780px;
+    top: 0px;
+    display: inline-block;
+}
+.banner-text{
+    text-align: right;
+    margin-right: 200px;
+    margin-top: 250px;
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 40px;
+    color: #151414; 
+    margin-left: 800px;
+}
+.banner-description{
+    font-size: 15px;
+    color: #444343;  
+    margin-left: 830px;
+}
+.banner-button{
+    width: 160px;
+    height: 64px;
+    border: none;
+    background-color: orangered;
+    color: #FFFFFF;
+    border-radius: 3px;}
+
+    /* second page styles */
+.second-page{
+    display: flex;
+    margin: 100px 200px;
+}
+.texts{
+    margin-top: 300px;
+}
+.failure-title {
+    font-size: 40px;
+    color: #151414;
+}
+.failure-description{
+    color: #444343;
+    font-size: 16px;
+}
+.failure-lists{ list-style-image:url('');
 }

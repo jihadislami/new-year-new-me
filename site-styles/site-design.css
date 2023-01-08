@@ -56,5 +56,9 @@
     text-align: center;
     font-weight: 700;
     font-size: 40px;
-   color: #151414;
+    color: #151414;
+}
+.skill-container {
+    display: flex;
+    justify-content: space-evenly;
 }
